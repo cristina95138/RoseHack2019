@@ -179,6 +179,6 @@ function updateScreenFwd() {
   setText("nameDynamic", animalNames[currentIndex]);
   setText("breedDynamic", animalBreeds[currentIndex]);
   setText("nameDynamic", animalNames[currentIndex]);
-  setText("interestDynamic", animalInterests[currentIndex] )
+  setText("interestDynamic", animalInterests[currentIndex])
   setText("locationDynamic", animalLocations[currentIndex]);
 }
